@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetC2_2 Pin=C1-2
+Added Pin To Net: NetName=NetC2_2 Pin=J1-2
+Added Pin To Net: NetName=NetC2_2 Pin=VR1-6
+Change Net Name : Old Net Name=NetC2_2 New Net Name=GND
+Added Room: Name=boost__

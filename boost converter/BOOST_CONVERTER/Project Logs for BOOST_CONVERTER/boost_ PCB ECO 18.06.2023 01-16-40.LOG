@@ -1,0 +1,22 @@
+Added Component: Designator=R1(TRIM_TS63Y103KT20)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Vishay'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS63Y103KT20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R1-3
+Added Member To Class: ClassName=boost__ Member=Component C1 TAJC227M010RNJ
+Added Member To Class: ClassName=boost__ Member=Component C2 T491B106M016AT
+Added Member To Class: ClassName=boost__ Member=Component C3 CL21B334KOCNNNC
+Added Member To Class: ClassName=boost__ Member=Component C4 100unF
+Added Member To Class: ClassName=boost__ Member=Component D1 1N4148WS
+Added Member To Class: ClassName=boost__ Member=Component J1 OUT
+Added Member To Class: ClassName=boost__ Member=Component J2 POWER_IN
+Added Member To Class: ClassName=boost__ Member=Component L1 DR127-101-R
+Added Member To Class: ClassName=boost__ Member=Component R1 TS63Y103KT20
+Added Member To Class: ClassName=boost__ Member=Component R2 0603SAJ0202T5E
+Added Member To Class: ClassName=boost__ Member=Component R3 0805S8J0222T5E
+Added Member To Class: ClassName=boost__ Member=Component VR1 LM2577S-ADJ
